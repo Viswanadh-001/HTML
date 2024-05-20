@@ -1,0 +1,21 @@
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: start;
+    text-decoration: underline;
+    font-weight: normal;
+}
+h2{
+    font-weight: 250;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ h3{
+    font-weight: 600;
+    font-family: monospace;
+ }
+ h4{
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
